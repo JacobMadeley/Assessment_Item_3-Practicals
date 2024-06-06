@@ -28,3 +28,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Documents and other files
+*.doc
+*.docx
+*.pdf
